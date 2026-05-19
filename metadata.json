@@ -1,0 +1,5 @@
+{
+  "name": "Ternary Salt Properties Calculator",
+  "description": "Calculates similarity coefficients and thermophysical properties (density and viscosity) of ternary nitrate salt systems using the General Solution Model (GSM).",
+  "requestFramePermissions": []
+}
